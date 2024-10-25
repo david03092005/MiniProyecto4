@@ -1,7 +1,9 @@
 ## Miniproject4
 
 Students:
+
 Jeysa Nahara Blandon Martínez
+
 David Alejandro Salazar Zuleta
 
 Teacher:
